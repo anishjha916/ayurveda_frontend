@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ayurveda",
+    "slug": "ayurveda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/leaf.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/leaf.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/leaf.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
